@@ -1,0 +1,59 @@
+# Ignore the bin and obj directories at the solution level
+*.sln
+**/*.sln
+*.suo
+**/*.suo
+*.user
+**/*.user
+*.userprefs
+**/*.userprefs
+*.vs
+**/*.vs
+*.vscode
+**/*.vscode
+*.vssscc
+**/*.vssscc
+*.vspscc
+**/*.vspscc
+*.vsconfig
+**/*.vsconfig
+*.sln.DotSettings.user
+**/*.sln.DotSettings.user
+*.sln.ide
+**/*.sln.ide
+*.sln.iml
+**/*.sln.iml
+*.sln.idea
+**/*.sln.idea
+*.resharper
+**/*.resharper
+*.ReSharper*
+**/*.ReSharper*
+*.cache
+**/*.cache
+*.builds
+**/*.builds
+*.publish
+**/*.publish
+*/TestResults
+**/TestResults
+*/node_modules
+**/node_modules
+npm-debug.log*
+**/npm-debug.log*
+
+# Ignore Visual Studio temporary files
+[Tt]humbs.db
+desktop.ini
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore Rider specific files
+.idea
+*.sln.iml
+*.sln.idea
+
+# Ignore user secrets
+secrets.json
+*.user.secrets

@@ -1,0 +1,14 @@
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.Model\bin\Debug\net7.0\SalesSystem.Model.deps.json
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.Model\bin\Debug\net7.0\SalesSystem.Model.runtimeconfig.json
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.Model\bin\Debug\net7.0\SalesSystem.Model.dll
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.Model\bin\Debug\net7.0\SalesSystem.Model.pdb
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.Model\obj\Debug\net7.0\SalesSystem.Model.csproj.AssemblyReference.cache
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.Model\obj\Debug\net7.0\SalesSystem.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.Model\obj\Debug\net7.0\SalesSystem.Model.AssemblyInfoInputs.cache
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.Model\obj\Debug\net7.0\SalesSystem.Model.AssemblyInfo.cs
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.Model\obj\Debug\net7.0\SalesSystem.Model.csproj.CoreCompileInputs.cache
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.Model\obj\Debug\net7.0\SalesSystem.Model.dll
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.Model\obj\Debug\net7.0\refint\SalesSystem.Model.dll
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.Model\obj\Debug\net7.0\SalesSystem.Model.pdb
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.Model\obj\Debug\net7.0\SalesSystem.Model.genruntimeconfig.cache
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.Model\obj\Debug\net7.0\ref\SalesSystem.Model.dll

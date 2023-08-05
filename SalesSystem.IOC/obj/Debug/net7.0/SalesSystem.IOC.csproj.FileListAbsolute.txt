@@ -1,0 +1,12 @@
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.IOC\bin\Debug\net7.0\SalesSystem.IOC.deps.json
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.IOC\bin\Debug\net7.0\SalesSystem.IOC.dll
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.IOC\bin\Debug\net7.0\SalesSystem.IOC.pdb
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.IOC\obj\Debug\net7.0\SalesSystem.IOC.csproj.AssemblyReference.cache
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.IOC\obj\Debug\net7.0\SalesSystem.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.IOC\obj\Debug\net7.0\SalesSystem.IOC.AssemblyInfoInputs.cache
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.IOC\obj\Debug\net7.0\SalesSystem.IOC.AssemblyInfo.cs
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.IOC\obj\Debug\net7.0\SalesSystem.IOC.csproj.CoreCompileInputs.cache
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.IOC\obj\Debug\net7.0\SalesSystem.IOC.dll
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.IOC\obj\Debug\net7.0\refint\SalesSystem.IOC.dll
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.IOC\obj\Debug\net7.0\SalesSystem.IOC.pdb
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.IOC\obj\Debug\net7.0\ref\SalesSystem.IOC.dll

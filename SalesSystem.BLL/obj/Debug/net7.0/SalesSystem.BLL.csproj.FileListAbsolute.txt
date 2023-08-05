@@ -1,0 +1,12 @@
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.BLL\bin\Debug\net7.0\SalesSystem.BLL.deps.json
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.BLL\bin\Debug\net7.0\SalesSystem.BLL.dll
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.BLL\bin\Debug\net7.0\SalesSystem.BLL.pdb
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.BLL\obj\Debug\net7.0\SalesSystem.BLL.csproj.AssemblyReference.cache
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.BLL\obj\Debug\net7.0\SalesSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.BLL\obj\Debug\net7.0\SalesSystem.BLL.AssemblyInfoInputs.cache
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.BLL\obj\Debug\net7.0\SalesSystem.BLL.AssemblyInfo.cs
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.BLL\obj\Debug\net7.0\SalesSystem.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.BLL\obj\Debug\net7.0\SalesSystem.BLL.dll
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.BLL\obj\Debug\net7.0\refint\SalesSystem.BLL.dll
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.BLL\obj\Debug\net7.0\SalesSystem.BLL.pdb
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.BLL\obj\Debug\net7.0\ref\SalesSystem.BLL.dll
