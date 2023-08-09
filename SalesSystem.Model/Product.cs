@@ -19,7 +19,7 @@ public partial class Product
 
     public DateTime? RegistrationDate { get; set; }
 
-    public virtual Categorie? IdCategorieNavigation { get; set; }
+    public virtual Category? IdCategorieNavigation { get; set; }
 
     public virtual ICollection<SaleDetail> SaleDetails { get; } = new List<SaleDetail>();
 }

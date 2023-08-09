@@ -10,3 +10,12 @@ C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBack
 C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.BLL\obj\Debug\net7.0\refint\SalesSystem.BLL.dll
 C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.BLL\obj\Debug\net7.0\SalesSystem.BLL.pdb
 C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.BLL\obj\Debug\net7.0\ref\SalesSystem.BLL.dll
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.BLL\bin\Debug\net7.0\SalesSystem.DAL.dll
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.BLL\bin\Debug\net7.0\SalesSystem.DTO.dll
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.BLL\bin\Debug\net7.0\SalesSystem.Model.dll
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.BLL\bin\Debug\net7.0\SalesSystem.Utility.dll
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.BLL\bin\Debug\net7.0\SalesSystem.DAL.pdb
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.BLL\bin\Debug\net7.0\SalesSystem.DTO.pdb
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.BLL\bin\Debug\net7.0\SalesSystem.Model.pdb
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.BLL\bin\Debug\net7.0\SalesSystem.Utility.pdb
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.BLL\obj\Debug\net7.0\SalesSystem.BLL.csproj.CopyComplete

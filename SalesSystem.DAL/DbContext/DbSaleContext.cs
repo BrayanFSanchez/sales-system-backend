@@ -3,20 +3,20 @@ using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using SalesSystem.Model;
 
-namespace SalesSystem.Model;
+namespace SalesSystem.DAL.DBContext;
 
-public partial class DbSaleContext : DbContext
+public partial class DbsaleContext : DbContext
 {
-    public DbSaleContext()
+    public DbsaleContext()
     {
     }
 
-    public DbSaleContext(DbContextOptions<DbSaleContext> options)
+    public DbsaleContext(DbContextOptions<DbsaleContext> options)
         : base(options)
     {
     }
 
-    public virtual DbSet<Categorie> Categories { get; set; }
+    public virtual DbSet<Category> Categories { get; set; }
 
     public virtual DbSet<DocumentNumber> DocumentNumbers { get; set; }
 
@@ -34,13 +34,11 @@ public partial class DbSaleContext : DbContext
 
     public virtual DbSet<User> Users { get; set; }
 
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Server=(local); DataBase=DBVENTA; Trusted_Connection=True; TrustServerCertificate=True;");
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) { }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        modelBuilder.Entity<Categorie>(entity =>
+        modelBuilder.Entity<Category>(entity =>
         {
             entity.HasKey(e => e.IdCategorie).HasName("PK__Categori__8A3D24087478C3D1");
 

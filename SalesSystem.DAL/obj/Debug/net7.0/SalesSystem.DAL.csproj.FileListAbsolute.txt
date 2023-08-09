@@ -10,3 +10,6 @@ C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBack
 C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.DAL\obj\Debug\net7.0\refint\SalesSystem.DAL.dll
 C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.DAL\obj\Debug\net7.0\SalesSystem.DAL.pdb
 C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.DAL\obj\Debug\net7.0\ref\SalesSystem.DAL.dll
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.DAL\bin\Debug\net7.0\SalesSystem.Model.dll
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.DAL\bin\Debug\net7.0\SalesSystem.Model.pdb
+C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.DAL\obj\Debug\net7.0\SalesSystem.DAL.csproj.CopyComplete
