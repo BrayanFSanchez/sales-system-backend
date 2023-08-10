@@ -1,14 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "aTNFXhf3UCpLbGe4s7qpUfe6anV7wu0fb1jfyzcOp989W6BuPvIve0a9TnOPpaHvPK6NyB9+R1E05hON4DPXAA==",
+  "dgSpecHash": "ZMnDxBDdst51YFhxkYowDz71Yp6DmafbRauppuqnd4/wa4yzQnCojqeq97n/pqGq+iFA5pmbeGsYk4g8PRgXEg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Master-Race\\Documents\\Repositorios\\dot-net\\sales-system\\SalesSystemBackend\\SalesSystem.API\\SalesSystem.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Master-Race\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Master-Race\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\Master-Race\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Master-Race\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\Master-Race\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
     "C:\\Users\\Master-Race\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\Master-Race\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Master-Race\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Master-Race\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",
     "C:\\Users\\Master-Race\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.0.1\\microsoft.data.sqlclient.sni.runtime.5.0.1.nupkg.sha512",
     "C:\\Users\\Master-Race\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.1\\microsoft.entityframeworkcore.7.0.1.nupkg.sha512",

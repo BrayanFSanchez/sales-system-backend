@@ -80,7 +80,7 @@ namespace SalesSystem.DAL.Repositories
             try
             {
                 IQueryable<TModel> queryModel = filter == null ? _dbcontext.Set<TModel>() : _dbcontext.Set<TModel>().Where(filter);
-                return await Task.FromResult(queryModel);
+                return queryModel;
             }
             catch (Exception)
             {

@@ -14,6 +14,8 @@ using System.Threading.Tasks;
 using SalesSystem.DAL.Repositories.Contract;
 using SalesSystem.DAL.Repositories;
 
+using SalesSystem.Utility;
+
 namespace SalesSystem.IOC
 {
     public static class Dependency
@@ -25,7 +27,9 @@ namespace SalesSystem.IOC
             });
 
             services.AddTransient(typeof(IGenericRepository<>), typeof(GenericRepository<>));
-            services.AddScoped<ISaleRepository, ISaleRepository>();
+            services.AddScoped<ISaleRepository, SaleRepository>();
+
+            services.AddAutoMapper(typeof(AutoMapperProfile));
         }
     }
 }

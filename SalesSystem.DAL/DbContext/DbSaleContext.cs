@@ -203,7 +203,7 @@ public partial class DbsaleContext : DbContext
                 .HasForeignKey(d => d.IdProduct)
                 .HasConstraintName("FK__SaleDetai__idPro__619B8048");
 
-            entity.HasOne(d => d.IdSaleNavigation).WithMany(p => p.SaleDetails)
+            entity.HasOne(d => d.IdSaleNavigation).WithMany(p => p.SaleDetail)
                 .HasForeignKey(d => d.IdSale)
                 .HasConstraintName("FK__SaleDetai__idSal__60A75C0F");
         });
