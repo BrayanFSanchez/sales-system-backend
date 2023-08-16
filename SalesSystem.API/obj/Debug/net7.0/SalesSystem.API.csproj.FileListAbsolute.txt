@@ -67,7 +67,6 @@ C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBack
 C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.API\obj\Debug\net7.0\SalesSystem.API.AssemblyInfoInputs.cache
 C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.API\obj\Debug\net7.0\SalesSystem.API.AssemblyInfo.cs
 C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.API\obj\Debug\net7.0\SalesSystem.API.csproj.CoreCompileInputs.cache
-C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.API\obj\Debug\net7.0\SalesSystem.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.API\obj\Debug\net7.0\SalesSystem.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.API\obj\Debug\net7.0\staticwebassets\msbuild.SalesSystem.API.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\Master-Race\Documents\Repositorios\dot-net\sales-system\SalesSystemBackend\SalesSystem.API\obj\Debug\net7.0\staticwebassets\msbuild.build.SalesSystem.API.props

@@ -15,6 +15,8 @@ using SalesSystem.DAL.Repositories.Contract;
 using SalesSystem.DAL.Repositories;
 
 using SalesSystem.Utility;
+using SalesSystem.BLL.Services.Contract;
+using SalesSystem.BLL.Services;
 
 namespace SalesSystem.IOC
 {
@@ -30,6 +32,14 @@ namespace SalesSystem.IOC
             services.AddScoped<ISaleRepository, SaleRepository>();
 
             services.AddAutoMapper(typeof(AutoMapperProfile));
+
+            services.AddScoped<IRoleService, RoleService>();
+            services.AddScoped<IUserService, UserService>();
+            services.AddScoped<ICategoryService, CategoryService>();
+            services.AddScoped<IProductService, ProductService>();
+            services.AddScoped<ISaleService, SaleService>();
+            services.AddScoped<IDashBoardService, DashBoardService>();
+            services.AddScoped<IMenuService, MenuService>();
         }
     }
 }
