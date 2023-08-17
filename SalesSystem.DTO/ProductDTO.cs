@@ -11,7 +11,7 @@ namespace SalesSystem.DTO
         public int IdProduct { get; set; }
         public string? Name { get; set; }
         public int? IdCategorie { get; set; }
-        public int? CategoryDescription { get; set; }
+        public string? CategoryDescription { get; set; }
         public int? Stock { get; set; }
         public string? Price { get; set; }
         public int? IsActive { get; set; }

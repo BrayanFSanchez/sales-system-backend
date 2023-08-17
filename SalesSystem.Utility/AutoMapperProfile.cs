@@ -54,7 +54,7 @@ namespace SalesSystem.Utility
             #endregion User
 
             #region Category
-            CreateMap<Category, Category>().ReverseMap();
+            CreateMap<Category, CategoryDTO>().ReverseMap();
             #endregion Category
 
             #region Product

@@ -13,7 +13,7 @@ namespace SalesSystem.BLL.Services.Contract
         Task<List<UserDTO>> List();
         Task<SessionDTO> ValidateCredentials(string email, string clue);
         Task<UserDTO> Create(UserDTO model);
-        Task<bool>Edit(UserDTO model);
+        Task<bool> Edit(UserDTO model);
         Task<bool> Delete(int id);
     }
 }

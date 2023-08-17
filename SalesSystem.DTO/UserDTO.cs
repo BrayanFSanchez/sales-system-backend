@@ -12,7 +12,7 @@ namespace SalesSystem.DTO
         public string? FullName { get; set; }
         public string? Email { get; set; }
         public int? IdRole { get; set; }
-        public int? RoleDescription { get; set; }
+        public string? RoleDescription { get; set; }
         public string? Clue { get; set; }
         public int? IsActive { get; set; }
     }
