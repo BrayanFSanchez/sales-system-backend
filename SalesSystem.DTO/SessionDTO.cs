@@ -11,6 +11,6 @@ namespace SalesSystem.DTO
         public int IdUser { get; set; }
         public string? FullName { get; set; }
         public string? Email { get; set; }
-        public int? RoleDescription { get; set; }
+        public string? RoleDescription { get; set; }
     }
 }
