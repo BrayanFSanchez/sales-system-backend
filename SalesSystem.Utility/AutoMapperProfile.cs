@@ -92,10 +92,10 @@ namespace SalesSystem.Utility
             CreateMap<Sale, SaleDTO>()
                 .ForMember(destination =>
                     destination.TotalText,
-                    opt => opt.MapFrom(origin => Convert.ToDecimal(origin.Total.Value, new CultureInfo("es-HN")))
+                    opt => opt.MapFrom(origin => Convert.ToString(origin.Total.Value, new CultureInfo("es-HN")))
                 )
                 .ForMember(destination =>
-                    destination.TotalText,
+                    destination.RegistrationDate,
                     opt => opt.MapFrom(origin => origin.RegistrationDate.Value.ToString("dd/MM/yyyy"))
                 );
 
@@ -139,7 +139,7 @@ namespace SalesSystem.Utility
             CreateMap<SaleDetail, ReportDTO>()
                 .ForMember(destination =>
                     destination.RegistrationDate,
-                    opt => opt.MapFrom(origin => origin.IdProductNavigation.RegistrationDate.Value.ToString("dd/MM/yyyy"))
+                    opt => opt.MapFrom(origin => origin.IdSaleNavigation.RegistrationDate.Value.ToString("dd/MM/yyyy"))
                 )
                 .ForMember(destination =>
                     destination.DocumentNumber,

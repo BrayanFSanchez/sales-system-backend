@@ -13,7 +13,7 @@ namespace SalesSystem.DTO
         public string? RegistrationDate { get; set; }
         public string? TotalSales { get; set; }
         public string? Product { get; set; }
-        public int Amount { get; set; }
+        public int? Amount { get; set; }
         public string? Price { get; set; }
         public string? Total { get; set; }
     }
